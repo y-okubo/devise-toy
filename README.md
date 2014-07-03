@@ -1,4 +1,4 @@
-afp_tool
+DeviseToy
 ========
 
 PAM-MySQL Test Web App
